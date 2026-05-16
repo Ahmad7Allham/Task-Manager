@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ahmad7Allham/Task-Manager.git/static/css/main.e79f4f81.css",
+    "main.js": "/Ahmad7Allham/Task-Manager.git/static/js/main.bca46da3.js",
+    "index.html": "/Ahmad7Allham/Task-Manager.git/index.html",
+    "main.e79f4f81.css.map": "/Ahmad7Allham/Task-Manager.git/static/css/main.e79f4f81.css.map",
+    "main.bca46da3.js.map": "/Ahmad7Allham/Task-Manager.git/static/js/main.bca46da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79f4f81.css",
+    "static/js/main.bca46da3.js"
+  ]
+}
