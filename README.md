@@ -1,6 +1,7 @@
 # Task Manager
-## Live Demo   https://1task-manger.netlify.app/
 Modern Todo App built with React and Tailwind CSS.
+
+## Live Demo   https://1task-manger.netlify.app/
 
 ## Features
 
